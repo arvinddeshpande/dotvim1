@@ -1,0 +1,7 @@
+Installation
+    git clone https:://github.com/arvinddeshpande.git ~/.vim
+
+Create Symlinks
+
+    ln -s ~/dotfiles/vimrc  ~/.vimrc
+    ln -s ~/dotfiles/gvimrc ~/.gvimrc

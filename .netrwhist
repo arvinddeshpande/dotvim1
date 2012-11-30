@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/adeshp01/.vim/autoload/conque_term'
+let g:netrw_dirhist_2='/private-1/devtrees/adeshp01/prod'
+let g:netrw_dirhist_3='/private-1/devtrees/adeshp01/mainline/src/lib/fx/ach'
+let g:netrw_dirhist_4='/private-1/devtrees/adeshp01/mainline/www/content/notify-me/messages/account/sms/loan_past_due'
